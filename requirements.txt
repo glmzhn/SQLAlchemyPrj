@@ -1,0 +1,10 @@
+alembic==1.13.3
+asyncpg==0.29.0
+psycopg==3.2.3
+psycopg-binary==3.2.3
+sqlalchemy==2.0.35
+
+fastapi==0.115.2
+pydantic==2.9.2
+pydantic-settings==2.5.2
+uvicorn==0.31.1
